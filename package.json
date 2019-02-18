@@ -1,0 +1,15 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "private express api direct from public open api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adrian_2013@126.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
